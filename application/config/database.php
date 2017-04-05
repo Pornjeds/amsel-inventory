@@ -99,10 +99,10 @@ $db['development'] = array(
 // PRODUCTION ON REMOTE HOST
 $db['production'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'inventory_admin',
-	'password' => '1nv3nt0ryAdmin',
-	'database' => 'Inventory',
+	'hostname' => 'us-cdbr-iron-east-03.cleardb.net',
+	'username' => 'bde0b7d9e79c27',
+	'password' => 'a724b0fc',
+	'database' => 'heroku_9abc296ad41b842',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

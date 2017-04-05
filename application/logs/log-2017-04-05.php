@@ -162,3 +162,134 @@ INFO - 2017-04-05 12:45:45 --> File loaded: /Users/pornjeds/projects/AmselInvent
 INFO - 2017-04-05 12:45:45 --> File loaded: /Users/pornjeds/projects/AmselInventory/src/application/views/home_view.php
 INFO - 2017-04-05 12:45:45 --> Final output sent to browser
 DEBUG - 2017-04-05 12:45:45 --> Total execution time: 0.0257
+INFO - 2017-04-05 13:09:07 --> Config Class Initialized
+INFO - 2017-04-05 13:09:07 --> Config Class Initialized
+INFO - 2017-04-05 13:09:07 --> Hooks Class Initialized
+INFO - 2017-04-05 13:09:07 --> Hooks Class Initialized
+DEBUG - 2017-04-05 13:09:07 --> UTF-8 Support Enabled
+DEBUG - 2017-04-05 13:09:07 --> UTF-8 Support Enabled
+INFO - 2017-04-05 13:09:07 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:07 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:07 --> URI Class Initialized
+INFO - 2017-04-05 13:09:07 --> URI Class Initialized
+DEBUG - 2017-04-05 13:09:07 --> No URI present. Default controller set.
+DEBUG - 2017-04-05 13:09:07 --> No URI present. Default controller set.
+INFO - 2017-04-05 13:09:07 --> Router Class Initialized
+INFO - 2017-04-05 13:09:07 --> Router Class Initialized
+INFO - 2017-04-05 13:09:07 --> Output Class Initialized
+INFO - 2017-04-05 13:09:07 --> Output Class Initialized
+INFO - 2017-04-05 13:09:07 --> Security Class Initialized
+INFO - 2017-04-05 13:09:07 --> Security Class Initialized
+DEBUG - 2017-04-05 13:09:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2017-04-05 13:09:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-05 13:09:07 --> Input Class Initialized
+INFO - 2017-04-05 13:09:07 --> Input Class Initialized
+INFO - 2017-04-05 13:09:07 --> Language Class Initialized
+INFO - 2017-04-05 13:09:07 --> Language Class Initialized
+INFO - 2017-04-05 13:09:07 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:07 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:07 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:07 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:07 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:07 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:07 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:07 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-05 13:09:07 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:07 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-05 13:09:07 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-05 13:09:07 --> Final output sent to browser
+DEBUG - 2017-04-05 13:09:07 --> Total execution time: 0.0697
+INFO - 2017-04-05 13:09:07 --> Final output sent to browser
+DEBUG - 2017-04-05 13:09:07 --> Total execution time: 0.0678
+INFO - 2017-04-05 13:09:14 --> Config Class Initialized
+INFO - 2017-04-05 13:09:14 --> Hooks Class Initialized
+DEBUG - 2017-04-05 13:09:14 --> UTF-8 Support Enabled
+INFO - 2017-04-05 13:09:14 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:14 --> URI Class Initialized
+DEBUG - 2017-04-05 13:09:14 --> No URI present. Default controller set.
+INFO - 2017-04-05 13:09:14 --> Router Class Initialized
+INFO - 2017-04-05 13:09:14 --> Output Class Initialized
+INFO - 2017-04-05 13:09:14 --> Security Class Initialized
+DEBUG - 2017-04-05 13:09:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-05 13:09:14 --> Input Class Initialized
+INFO - 2017-04-05 13:09:14 --> Language Class Initialized
+INFO - 2017-04-05 13:09:14 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:14 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:14 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:14 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:14 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:14 --> Config Class Initialized
+INFO - 2017-04-05 13:09:14 --> Hooks Class Initialized
+DEBUG - 2017-04-05 13:09:14 --> UTF-8 Support Enabled
+INFO - 2017-04-05 13:09:14 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:14 --> URI Class Initialized
+INFO - 2017-04-05 13:09:14 --> Router Class Initialized
+INFO - 2017-04-05 13:09:14 --> Output Class Initialized
+INFO - 2017-04-05 13:09:14 --> Security Class Initialized
+DEBUG - 2017-04-05 13:09:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-05 13:09:14 --> Input Class Initialized
+INFO - 2017-04-05 13:09:14 --> Language Class Initialized
+INFO - 2017-04-05 13:09:14 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:14 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:14 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:14 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:14 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:14 --> Helper loaded: form_helper
+INFO - 2017-04-05 13:09:14 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/login_view.php
+INFO - 2017-04-05 13:09:14 --> Final output sent to browser
+DEBUG - 2017-04-05 13:09:14 --> Total execution time: 0.0355
+INFO - 2017-04-05 13:09:16 --> Config Class Initialized
+INFO - 2017-04-05 13:09:16 --> Hooks Class Initialized
+DEBUG - 2017-04-05 13:09:16 --> UTF-8 Support Enabled
+INFO - 2017-04-05 13:09:16 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:16 --> URI Class Initialized
+INFO - 2017-04-05 13:09:16 --> Router Class Initialized
+INFO - 2017-04-05 13:09:16 --> Output Class Initialized
+INFO - 2017-04-05 13:09:16 --> Security Class Initialized
+DEBUG - 2017-04-05 13:09:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-05 13:09:16 --> Input Class Initialized
+INFO - 2017-04-05 13:09:16 --> Language Class Initialized
+INFO - 2017-04-05 13:09:16 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:16 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:16 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:16 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:16 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:16 --> Model Class Initialized
+INFO - 2017-04-05 13:09:16 --> Helper loaded: form_helper
+INFO - 2017-04-05 13:09:16 --> Form Validation Class Initialized
+INFO - 2017-04-05 13:09:16 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-04-05 13:09:16 --> Config Class Initialized
+INFO - 2017-04-05 13:09:16 --> Hooks Class Initialized
+DEBUG - 2017-04-05 13:09:16 --> UTF-8 Support Enabled
+INFO - 2017-04-05 13:09:16 --> Utf8 Class Initialized
+INFO - 2017-04-05 13:09:16 --> URI Class Initialized
+INFO - 2017-04-05 13:09:16 --> Router Class Initialized
+INFO - 2017-04-05 13:09:16 --> Output Class Initialized
+INFO - 2017-04-05 13:09:16 --> Security Class Initialized
+DEBUG - 2017-04-05 13:09:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-05 13:09:16 --> Input Class Initialized
+INFO - 2017-04-05 13:09:16 --> Language Class Initialized
+INFO - 2017-04-05 13:09:16 --> Loader Class Initialized
+INFO - 2017-04-05 13:09:16 --> Helper loaded: url_helper
+INFO - 2017-04-05 13:09:16 --> Database Driver Class Initialized
+INFO - 2017-04-05 13:09:16 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-05 13:09:16 --> Controller Class Initialized
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-05 13:09:16 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-05 13:09:16 --> Final output sent to browser
+DEBUG - 2017-04-05 13:09:16 --> Total execution time: 0.0264
