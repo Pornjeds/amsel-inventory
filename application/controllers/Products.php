@@ -37,6 +37,30 @@ class Products extends CI_Controller {
 
  }
 
+ function view_product()
+ {
+   if($this->session->userdata('logged_in'))
+   {
+     $productID = $this->input->get('productID', TRUE);
+     if(!is_null($productID))
+     {
+         $title = 'View Product | Amsel Inventory System';
+         $page = '/products/product_view';
+
+         $data['page'] = $page;
+         $data['title'] = $title;
+         $this->load->view($this->_PRODUCT_VIEW, $data);
+     }else{
+       //Error something went wrong
+     }
+   }
+   else
+   {
+     //If no session, redirect to login page
+     redirect('login', 'refresh');
+   }
+ }
+
 }
 
 ?>
