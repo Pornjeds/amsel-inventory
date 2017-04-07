@@ -1251,3 +1251,172 @@ INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inven
 INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
 INFO - 2017-04-07 04:53:04 --> Final output sent to browser
 DEBUG - 2017-04-07 04:53:04 --> Total execution time: 0.0254
+INFO - 2017-04-07 09:13:30 --> Config Class Initialized
+INFO - 2017-04-07 09:13:30 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:13:30 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:13:30 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:13:30 --> URI Class Initialized
+INFO - 2017-04-07 09:13:30 --> Router Class Initialized
+INFO - 2017-04-07 09:13:30 --> Output Class Initialized
+INFO - 2017-04-07 09:13:30 --> Security Class Initialized
+DEBUG - 2017-04-07 09:13:30 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:13:30 --> Input Class Initialized
+INFO - 2017-04-07 09:13:30 --> Language Class Initialized
+INFO - 2017-04-07 09:13:30 --> Loader Class Initialized
+INFO - 2017-04-07 09:13:30 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:13:30 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:13:32 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:13:32 --> Controller Class Initialized
+INFO - 2017-04-07 09:13:32 --> Helper loaded: form_helper
+INFO - 2017-04-07 09:13:32 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/login_view.php
+INFO - 2017-04-07 09:13:32 --> Final output sent to browser
+DEBUG - 2017-04-07 09:13:32 --> Total execution time: 2.0673
+INFO - 2017-04-07 09:49:14 --> Config Class Initialized
+INFO - 2017-04-07 09:49:14 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:14 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:14 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:14 --> URI Class Initialized
+DEBUG - 2017-04-07 09:49:14 --> No URI present. Default controller set.
+INFO - 2017-04-07 09:49:14 --> Router Class Initialized
+INFO - 2017-04-07 09:49:14 --> Output Class Initialized
+INFO - 2017-04-07 09:49:14 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:14 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:14 --> Input Class Initialized
+INFO - 2017-04-07 09:49:14 --> Language Class Initialized
+INFO - 2017-04-07 09:49:14 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:14 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:14 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:15 --> Config Class Initialized
+INFO - 2017-04-07 09:49:15 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:15 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:15 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:15 --> URI Class Initialized
+DEBUG - 2017-04-07 09:49:15 --> No URI present. Default controller set.
+INFO - 2017-04-07 09:49:15 --> Router Class Initialized
+INFO - 2017-04-07 09:49:15 --> Output Class Initialized
+INFO - 2017-04-07 09:49:15 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:15 --> Input Class Initialized
+INFO - 2017-04-07 09:49:15 --> Language Class Initialized
+INFO - 2017-04-07 09:49:15 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:15 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:15 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:17 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:17 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:17 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:17 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:24 --> Config Class Initialized
+INFO - 2017-04-07 09:49:24 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:24 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:24 --> URI Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> No URI present. Default controller set.
+INFO - 2017-04-07 09:49:24 --> Router Class Initialized
+INFO - 2017-04-07 09:49:24 --> Output Class Initialized
+INFO - 2017-04-07 09:49:24 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:24 --> Input Class Initialized
+INFO - 2017-04-07 09:49:24 --> Language Class Initialized
+INFO - 2017-04-07 09:49:24 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:24 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:24 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:24 --> Config Class Initialized
+INFO - 2017-04-07 09:49:24 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:24 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:24 --> URI Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> No URI present. Default controller set.
+INFO - 2017-04-07 09:49:24 --> Router Class Initialized
+INFO - 2017-04-07 09:49:24 --> Output Class Initialized
+INFO - 2017-04-07 09:49:24 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:24 --> Input Class Initialized
+INFO - 2017-04-07 09:49:24 --> Language Class Initialized
+INFO - 2017-04-07 09:49:24 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:24 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:24 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:26 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:26 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:27 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:27 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:49 --> Config Class Initialized
+INFO - 2017-04-07 09:49:49 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:49 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:49 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:49 --> URI Class Initialized
+DEBUG - 2017-04-07 09:49:49 --> No URI present. Default controller set.
+INFO - 2017-04-07 09:49:49 --> Router Class Initialized
+INFO - 2017-04-07 09:49:49 --> Output Class Initialized
+INFO - 2017-04-07 09:49:49 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:49 --> Input Class Initialized
+INFO - 2017-04-07 09:49:49 --> Language Class Initialized
+INFO - 2017-04-07 09:49:49 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:49 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:49 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:49 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:49 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:49 --> Config Class Initialized
+INFO - 2017-04-07 09:49:49 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:49 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:49 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:49 --> URI Class Initialized
+INFO - 2017-04-07 09:49:49 --> Router Class Initialized
+INFO - 2017-04-07 09:49:49 --> Output Class Initialized
+INFO - 2017-04-07 09:49:49 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:49 --> Input Class Initialized
+INFO - 2017-04-07 09:49:49 --> Language Class Initialized
+INFO - 2017-04-07 09:49:49 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:49 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:49 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:49 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:49 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:49 --> Helper loaded: form_helper
+INFO - 2017-04-07 09:49:49 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/login_view.php
+INFO - 2017-04-07 09:49:49 --> Final output sent to browser
+DEBUG - 2017-04-07 09:49:49 --> Total execution time: 0.0413
+INFO - 2017-04-07 09:49:51 --> Config Class Initialized
+INFO - 2017-04-07 09:49:51 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:51 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:51 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:51 --> URI Class Initialized
+INFO - 2017-04-07 09:49:51 --> Router Class Initialized
+INFO - 2017-04-07 09:49:51 --> Output Class Initialized
+INFO - 2017-04-07 09:49:51 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:51 --> Input Class Initialized
+INFO - 2017-04-07 09:49:51 --> Language Class Initialized
+INFO - 2017-04-07 09:49:51 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:51 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:51 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:51 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:51 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:51 --> Model Class Initialized
+INFO - 2017-04-07 09:49:51 --> Helper loaded: form_helper
+INFO - 2017-04-07 09:49:51 --> Form Validation Class Initialized
+INFO - 2017-04-07 09:49:51 --> Language file loaded: language/english/form_validation_lang.php
+INFO - 2017-04-07 09:49:51 --> Config Class Initialized
+INFO - 2017-04-07 09:49:51 --> Hooks Class Initialized
+DEBUG - 2017-04-07 09:49:51 --> UTF-8 Support Enabled
+INFO - 2017-04-07 09:49:51 --> Utf8 Class Initialized
+INFO - 2017-04-07 09:49:51 --> URI Class Initialized
+INFO - 2017-04-07 09:49:51 --> Router Class Initialized
+INFO - 2017-04-07 09:49:51 --> Output Class Initialized
+INFO - 2017-04-07 09:49:51 --> Security Class Initialized
+DEBUG - 2017-04-07 09:49:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 09:49:51 --> Input Class Initialized
+INFO - 2017-04-07 09:49:51 --> Language Class Initialized
+INFO - 2017-04-07 09:49:51 --> Loader Class Initialized
+INFO - 2017-04-07 09:49:51 --> Helper loaded: url_helper
+INFO - 2017-04-07 09:49:51 --> Database Driver Class Initialized
+INFO - 2017-04-07 09:49:51 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 09:49:51 --> Controller Class Initialized
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-07 09:49:51 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-07 09:49:51 --> Final output sent to browser
+DEBUG - 2017-04-07 09:49:51 --> Total execution time: 0.0253
