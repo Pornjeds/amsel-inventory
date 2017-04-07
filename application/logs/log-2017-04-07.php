@@ -671,3 +671,583 @@ INFO - 2017-04-07 04:29:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inven
 INFO - 2017-04-07 04:29:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
 INFO - 2017-04-07 04:29:23 --> Final output sent to browser
 DEBUG - 2017-04-07 04:29:23 --> Total execution time: 0.0284
+INFO - 2017-04-07 04:30:37 --> Config Class Initialized
+INFO - 2017-04-07 04:30:37 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:30:37 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:30:37 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:30:37 --> URI Class Initialized
+INFO - 2017-04-07 04:30:37 --> Router Class Initialized
+INFO - 2017-04-07 04:30:37 --> Output Class Initialized
+INFO - 2017-04-07 04:30:37 --> Security Class Initialized
+DEBUG - 2017-04-07 04:30:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:30:37 --> Input Class Initialized
+INFO - 2017-04-07 04:30:37 --> Language Class Initialized
+INFO - 2017-04-07 04:30:37 --> Loader Class Initialized
+INFO - 2017-04-07 04:30:37 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:30:37 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:30:37 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:30:37 --> Controller Class Initialized
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:30:37 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:30:37 --> Final output sent to browser
+DEBUG - 2017-04-07 04:30:37 --> Total execution time: 0.0430
+INFO - 2017-04-07 04:30:41 --> Config Class Initialized
+INFO - 2017-04-07 04:30:41 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:30:41 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:30:41 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:30:41 --> URI Class Initialized
+INFO - 2017-04-07 04:30:41 --> Router Class Initialized
+INFO - 2017-04-07 04:30:41 --> Output Class Initialized
+INFO - 2017-04-07 04:30:41 --> Security Class Initialized
+DEBUG - 2017-04-07 04:30:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:30:41 --> Input Class Initialized
+INFO - 2017-04-07 04:30:41 --> Language Class Initialized
+INFO - 2017-04-07 04:30:41 --> Loader Class Initialized
+INFO - 2017-04-07 04:30:41 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:30:41 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:30:41 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:30:41 --> Controller Class Initialized
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-07 04:30:41 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-07 04:30:41 --> Final output sent to browser
+DEBUG - 2017-04-07 04:30:41 --> Total execution time: 0.0519
+INFO - 2017-04-07 04:30:46 --> Config Class Initialized
+INFO - 2017-04-07 04:30:46 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:30:46 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:30:46 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:30:46 --> URI Class Initialized
+INFO - 2017-04-07 04:30:46 --> Router Class Initialized
+INFO - 2017-04-07 04:30:46 --> Output Class Initialized
+INFO - 2017-04-07 04:30:46 --> Security Class Initialized
+DEBUG - 2017-04-07 04:30:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:30:46 --> Input Class Initialized
+INFO - 2017-04-07 04:30:46 --> Language Class Initialized
+INFO - 2017-04-07 04:30:46 --> Loader Class Initialized
+INFO - 2017-04-07 04:30:46 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:30:46 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:30:46 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:30:46 --> Controller Class Initialized
+INFO - 2017-04-07 04:30:46 --> Model Class Initialized
+INFO - 2017-04-07 04:30:46 --> Helper loaded: form_helper
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//transaction/new_transaction_view.php
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:30:46 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/shared_view.php
+INFO - 2017-04-07 04:30:46 --> Final output sent to browser
+DEBUG - 2017-04-07 04:30:46 --> Total execution time: 0.0352
+INFO - 2017-04-07 04:30:52 --> Config Class Initialized
+INFO - 2017-04-07 04:30:52 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:30:52 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:30:52 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:30:52 --> URI Class Initialized
+INFO - 2017-04-07 04:30:52 --> Router Class Initialized
+INFO - 2017-04-07 04:30:52 --> Output Class Initialized
+INFO - 2017-04-07 04:30:52 --> Security Class Initialized
+DEBUG - 2017-04-07 04:30:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:30:52 --> Input Class Initialized
+INFO - 2017-04-07 04:30:52 --> Language Class Initialized
+INFO - 2017-04-07 04:30:52 --> Loader Class Initialized
+INFO - 2017-04-07 04:30:52 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:30:52 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:30:52 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:30:52 --> Controller Class Initialized
+INFO - 2017-04-07 04:30:52 --> Model Class Initialized
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//pc/list_pc_view.php
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:30:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//pc/pc_view.php
+INFO - 2017-04-07 04:30:52 --> Final output sent to browser
+DEBUG - 2017-04-07 04:30:52 --> Total execution time: 0.0439
+INFO - 2017-04-07 04:30:54 --> Config Class Initialized
+INFO - 2017-04-07 04:30:54 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:30:54 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:30:54 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:30:54 --> URI Class Initialized
+INFO - 2017-04-07 04:30:54 --> Router Class Initialized
+INFO - 2017-04-07 04:30:54 --> Output Class Initialized
+INFO - 2017-04-07 04:30:54 --> Security Class Initialized
+DEBUG - 2017-04-07 04:30:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:30:54 --> Input Class Initialized
+INFO - 2017-04-07 04:30:54 --> Language Class Initialized
+INFO - 2017-04-07 04:30:54 --> Loader Class Initialized
+INFO - 2017-04-07 04:30:54 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:30:54 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:30:54 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:30:54 --> Controller Class Initialized
+INFO - 2017-04-07 04:30:54 --> Model Class Initialized
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//pc/profile_view.php
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:30:54 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//pc/pc_view.php
+INFO - 2017-04-07 04:30:54 --> Final output sent to browser
+DEBUG - 2017-04-07 04:30:54 --> Total execution time: 0.0342
+INFO - 2017-04-07 04:31:01 --> Config Class Initialized
+INFO - 2017-04-07 04:31:01 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:31:01 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:31:01 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:31:01 --> URI Class Initialized
+INFO - 2017-04-07 04:31:01 --> Router Class Initialized
+INFO - 2017-04-07 04:31:01 --> Output Class Initialized
+INFO - 2017-04-07 04:31:01 --> Security Class Initialized
+DEBUG - 2017-04-07 04:31:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:31:01 --> Input Class Initialized
+INFO - 2017-04-07 04:31:01 --> Language Class Initialized
+INFO - 2017-04-07 04:31:01 --> Loader Class Initialized
+INFO - 2017-04-07 04:31:01 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:31:01 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:31:01 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:31:01 --> Controller Class Initialized
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/list_products_view.php
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:31:01 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:31:01 --> Final output sent to browser
+DEBUG - 2017-04-07 04:31:01 --> Total execution time: 0.0297
+INFO - 2017-04-07 04:31:03 --> Config Class Initialized
+INFO - 2017-04-07 04:31:03 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:31:03 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:31:03 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:31:03 --> URI Class Initialized
+INFO - 2017-04-07 04:31:03 --> Router Class Initialized
+INFO - 2017-04-07 04:31:03 --> Output Class Initialized
+INFO - 2017-04-07 04:31:03 --> Security Class Initialized
+DEBUG - 2017-04-07 04:31:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:31:03 --> Input Class Initialized
+INFO - 2017-04-07 04:31:03 --> Language Class Initialized
+INFO - 2017-04-07 04:31:03 --> Loader Class Initialized
+INFO - 2017-04-07 04:31:03 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:31:03 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:31:03 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:31:03 --> Controller Class Initialized
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:31:03 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:31:03 --> Final output sent to browser
+DEBUG - 2017-04-07 04:31:03 --> Total execution time: 0.0328
+INFO - 2017-04-07 04:46:20 --> Config Class Initialized
+INFO - 2017-04-07 04:46:20 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:46:20 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:46:20 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:46:20 --> URI Class Initialized
+INFO - 2017-04-07 04:46:20 --> Router Class Initialized
+INFO - 2017-04-07 04:46:20 --> Output Class Initialized
+INFO - 2017-04-07 04:46:20 --> Security Class Initialized
+DEBUG - 2017-04-07 04:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:46:20 --> Input Class Initialized
+INFO - 2017-04-07 04:46:20 --> Language Class Initialized
+INFO - 2017-04-07 04:46:20 --> Loader Class Initialized
+INFO - 2017-04-07 04:46:20 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:46:20 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:46:20 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:46:20 --> Controller Class Initialized
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:46:20 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:46:20 --> Final output sent to browser
+DEBUG - 2017-04-07 04:46:20 --> Total execution time: 0.0329
+INFO - 2017-04-07 04:46:44 --> Config Class Initialized
+INFO - 2017-04-07 04:46:44 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:46:44 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:46:44 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:46:44 --> URI Class Initialized
+INFO - 2017-04-07 04:46:44 --> Router Class Initialized
+INFO - 2017-04-07 04:46:44 --> Output Class Initialized
+INFO - 2017-04-07 04:46:44 --> Security Class Initialized
+DEBUG - 2017-04-07 04:46:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:46:44 --> Input Class Initialized
+INFO - 2017-04-07 04:46:44 --> Language Class Initialized
+INFO - 2017-04-07 04:46:44 --> Loader Class Initialized
+INFO - 2017-04-07 04:46:44 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:46:44 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:46:44 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:46:44 --> Controller Class Initialized
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:46:44 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:46:44 --> Final output sent to browser
+DEBUG - 2017-04-07 04:46:44 --> Total execution time: 0.0289
+INFO - 2017-04-07 04:46:58 --> Config Class Initialized
+INFO - 2017-04-07 04:46:58 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:46:58 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:46:58 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:46:58 --> URI Class Initialized
+INFO - 2017-04-07 04:46:58 --> Router Class Initialized
+INFO - 2017-04-07 04:46:58 --> Output Class Initialized
+INFO - 2017-04-07 04:46:58 --> Security Class Initialized
+DEBUG - 2017-04-07 04:46:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:46:58 --> Input Class Initialized
+INFO - 2017-04-07 04:46:58 --> Language Class Initialized
+INFO - 2017-04-07 04:46:58 --> Loader Class Initialized
+INFO - 2017-04-07 04:46:58 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:46:58 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:46:58 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:46:58 --> Controller Class Initialized
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:46:58 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:46:58 --> Final output sent to browser
+DEBUG - 2017-04-07 04:46:58 --> Total execution time: 0.0285
+INFO - 2017-04-07 04:47:13 --> Config Class Initialized
+INFO - 2017-04-07 04:47:13 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:47:13 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:47:13 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:47:13 --> URI Class Initialized
+INFO - 2017-04-07 04:47:13 --> Router Class Initialized
+INFO - 2017-04-07 04:47:13 --> Output Class Initialized
+INFO - 2017-04-07 04:47:13 --> Security Class Initialized
+DEBUG - 2017-04-07 04:47:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:47:13 --> Input Class Initialized
+INFO - 2017-04-07 04:47:13 --> Language Class Initialized
+INFO - 2017-04-07 04:47:13 --> Loader Class Initialized
+INFO - 2017-04-07 04:47:13 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:47:13 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:47:13 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:47:13 --> Controller Class Initialized
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:47:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:47:13 --> Final output sent to browser
+DEBUG - 2017-04-07 04:47:13 --> Total execution time: 0.0269
+INFO - 2017-04-07 04:49:53 --> Config Class Initialized
+INFO - 2017-04-07 04:49:53 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:49:53 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:49:53 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:49:53 --> URI Class Initialized
+INFO - 2017-04-07 04:49:53 --> Router Class Initialized
+INFO - 2017-04-07 04:49:53 --> Output Class Initialized
+INFO - 2017-04-07 04:49:53 --> Security Class Initialized
+DEBUG - 2017-04-07 04:49:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:49:53 --> Input Class Initialized
+INFO - 2017-04-07 04:49:53 --> Language Class Initialized
+INFO - 2017-04-07 04:49:53 --> Loader Class Initialized
+INFO - 2017-04-07 04:49:53 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:49:53 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:49:53 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:49:53 --> Controller Class Initialized
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:49:53 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:49:53 --> Final output sent to browser
+DEBUG - 2017-04-07 04:49:53 --> Total execution time: 0.0410
+INFO - 2017-04-07 04:50:13 --> Config Class Initialized
+INFO - 2017-04-07 04:50:13 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:13 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:13 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:13 --> URI Class Initialized
+INFO - 2017-04-07 04:50:13 --> Router Class Initialized
+INFO - 2017-04-07 04:50:13 --> Output Class Initialized
+INFO - 2017-04-07 04:50:13 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:13 --> Input Class Initialized
+INFO - 2017-04-07 04:50:13 --> Language Class Initialized
+INFO - 2017-04-07 04:50:13 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:13 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:13 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:13 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:13 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:50:13 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:50:13 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:13 --> Total execution time: 0.0294
+INFO - 2017-04-07 04:50:23 --> Config Class Initialized
+INFO - 2017-04-07 04:50:23 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:23 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:23 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:23 --> URI Class Initialized
+INFO - 2017-04-07 04:50:23 --> Router Class Initialized
+INFO - 2017-04-07 04:50:23 --> Output Class Initialized
+INFO - 2017-04-07 04:50:23 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:23 --> Input Class Initialized
+INFO - 2017-04-07 04:50:23 --> Language Class Initialized
+INFO - 2017-04-07 04:50:23 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:23 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:23 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:23 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:23 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:50:23 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:50:23 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:23 --> Total execution time: 0.0278
+INFO - 2017-04-07 04:50:25 --> Config Class Initialized
+INFO - 2017-04-07 04:50:25 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:25 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:25 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:25 --> URI Class Initialized
+INFO - 2017-04-07 04:50:25 --> Router Class Initialized
+INFO - 2017-04-07 04:50:25 --> Output Class Initialized
+INFO - 2017-04-07 04:50:25 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:25 --> Input Class Initialized
+INFO - 2017-04-07 04:50:25 --> Language Class Initialized
+INFO - 2017-04-07 04:50:25 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:25 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:25 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:25 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:25 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:50:25 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:50:25 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:25 --> Total execution time: 0.0252
+INFO - 2017-04-07 04:50:28 --> Config Class Initialized
+INFO - 2017-04-07 04:50:28 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:28 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:28 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:28 --> URI Class Initialized
+INFO - 2017-04-07 04:50:28 --> Router Class Initialized
+INFO - 2017-04-07 04:50:28 --> Output Class Initialized
+INFO - 2017-04-07 04:50:28 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:28 --> Input Class Initialized
+INFO - 2017-04-07 04:50:28 --> Language Class Initialized
+INFO - 2017-04-07 04:50:28 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:28 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:28 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:28 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:28 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/navigation_view.php
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_content_view.php
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/script_view.php
+INFO - 2017-04-07 04:50:28 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/home_view.php
+INFO - 2017-04-07 04:50:28 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:28 --> Total execution time: 0.0266
+INFO - 2017-04-07 04:50:33 --> Config Class Initialized
+INFO - 2017-04-07 04:50:33 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:33 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:33 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:33 --> URI Class Initialized
+INFO - 2017-04-07 04:50:33 --> Router Class Initialized
+INFO - 2017-04-07 04:50:33 --> Output Class Initialized
+INFO - 2017-04-07 04:50:33 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:33 --> Input Class Initialized
+INFO - 2017-04-07 04:50:33 --> Language Class Initialized
+INFO - 2017-04-07 04:50:33 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:33 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:33 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:33 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:33 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/list_products_view.php
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:50:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:50:33 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:33 --> Total execution time: 0.0277
+INFO - 2017-04-07 04:50:34 --> Config Class Initialized
+INFO - 2017-04-07 04:50:34 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:50:34 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:50:34 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:50:34 --> URI Class Initialized
+INFO - 2017-04-07 04:50:34 --> Router Class Initialized
+INFO - 2017-04-07 04:50:34 --> Output Class Initialized
+INFO - 2017-04-07 04:50:34 --> Security Class Initialized
+DEBUG - 2017-04-07 04:50:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:50:34 --> Input Class Initialized
+INFO - 2017-04-07 04:50:34 --> Language Class Initialized
+INFO - 2017-04-07 04:50:34 --> Loader Class Initialized
+INFO - 2017-04-07 04:50:34 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:50:34 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:50:34 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:50:34 --> Controller Class Initialized
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:50:34 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:50:34 --> Final output sent to browser
+DEBUG - 2017-04-07 04:50:34 --> Total execution time: 0.0287
+INFO - 2017-04-07 04:51:09 --> Config Class Initialized
+INFO - 2017-04-07 04:51:09 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:51:09 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:51:09 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:51:09 --> URI Class Initialized
+INFO - 2017-04-07 04:51:09 --> Router Class Initialized
+INFO - 2017-04-07 04:51:09 --> Output Class Initialized
+INFO - 2017-04-07 04:51:09 --> Security Class Initialized
+DEBUG - 2017-04-07 04:51:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:51:09 --> Input Class Initialized
+INFO - 2017-04-07 04:51:09 --> Language Class Initialized
+INFO - 2017-04-07 04:51:09 --> Loader Class Initialized
+INFO - 2017-04-07 04:51:09 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:51:09 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:51:09 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:51:09 --> Controller Class Initialized
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:51:09 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:51:09 --> Final output sent to browser
+DEBUG - 2017-04-07 04:51:09 --> Total execution time: 0.0271
+INFO - 2017-04-07 04:51:18 --> Config Class Initialized
+INFO - 2017-04-07 04:51:18 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:51:18 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:51:18 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:51:18 --> URI Class Initialized
+INFO - 2017-04-07 04:51:18 --> Router Class Initialized
+INFO - 2017-04-07 04:51:18 --> Output Class Initialized
+INFO - 2017-04-07 04:51:18 --> Security Class Initialized
+DEBUG - 2017-04-07 04:51:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:51:18 --> Input Class Initialized
+INFO - 2017-04-07 04:51:18 --> Language Class Initialized
+INFO - 2017-04-07 04:51:18 --> Loader Class Initialized
+INFO - 2017-04-07 04:51:18 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:51:18 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:51:18 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:51:18 --> Controller Class Initialized
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:51:18 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:51:18 --> Final output sent to browser
+DEBUG - 2017-04-07 04:51:18 --> Total execution time: 0.0273
+INFO - 2017-04-07 04:51:52 --> Config Class Initialized
+INFO - 2017-04-07 04:51:52 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:51:52 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:51:52 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:51:52 --> URI Class Initialized
+INFO - 2017-04-07 04:51:52 --> Router Class Initialized
+INFO - 2017-04-07 04:51:52 --> Output Class Initialized
+INFO - 2017-04-07 04:51:52 --> Security Class Initialized
+DEBUG - 2017-04-07 04:51:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:51:52 --> Input Class Initialized
+INFO - 2017-04-07 04:51:52 --> Language Class Initialized
+INFO - 2017-04-07 04:51:52 --> Loader Class Initialized
+INFO - 2017-04-07 04:51:52 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:51:52 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:51:52 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:51:52 --> Controller Class Initialized
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:51:52 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:51:52 --> Final output sent to browser
+DEBUG - 2017-04-07 04:51:52 --> Total execution time: 0.0273
+INFO - 2017-04-07 04:52:33 --> Config Class Initialized
+INFO - 2017-04-07 04:52:33 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:52:33 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:52:33 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:52:33 --> URI Class Initialized
+INFO - 2017-04-07 04:52:33 --> Router Class Initialized
+INFO - 2017-04-07 04:52:33 --> Output Class Initialized
+INFO - 2017-04-07 04:52:33 --> Security Class Initialized
+DEBUG - 2017-04-07 04:52:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:52:33 --> Input Class Initialized
+INFO - 2017-04-07 04:52:33 --> Language Class Initialized
+INFO - 2017-04-07 04:52:33 --> Loader Class Initialized
+INFO - 2017-04-07 04:52:33 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:52:33 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:52:33 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:52:33 --> Controller Class Initialized
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:52:33 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:52:33 --> Final output sent to browser
+DEBUG - 2017-04-07 04:52:33 --> Total execution time: 0.0256
+INFO - 2017-04-07 04:52:50 --> Config Class Initialized
+INFO - 2017-04-07 04:52:50 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:52:50 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:52:50 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:52:50 --> URI Class Initialized
+INFO - 2017-04-07 04:52:50 --> Router Class Initialized
+INFO - 2017-04-07 04:52:50 --> Output Class Initialized
+INFO - 2017-04-07 04:52:50 --> Security Class Initialized
+DEBUG - 2017-04-07 04:52:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:52:50 --> Input Class Initialized
+INFO - 2017-04-07 04:52:50 --> Language Class Initialized
+INFO - 2017-04-07 04:52:50 --> Loader Class Initialized
+INFO - 2017-04-07 04:52:50 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:52:50 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:52:50 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:52:50 --> Controller Class Initialized
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:52:50 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:52:50 --> Final output sent to browser
+DEBUG - 2017-04-07 04:52:50 --> Total execution time: 0.0259
+INFO - 2017-04-07 04:53:04 --> Config Class Initialized
+INFO - 2017-04-07 04:53:04 --> Hooks Class Initialized
+DEBUG - 2017-04-07 04:53:04 --> UTF-8 Support Enabled
+INFO - 2017-04-07 04:53:04 --> Utf8 Class Initialized
+INFO - 2017-04-07 04:53:04 --> URI Class Initialized
+INFO - 2017-04-07 04:53:04 --> Router Class Initialized
+INFO - 2017-04-07 04:53:04 --> Output Class Initialized
+INFO - 2017-04-07 04:53:04 --> Security Class Initialized
+DEBUG - 2017-04-07 04:53:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2017-04-07 04:53:04 --> Input Class Initialized
+INFO - 2017-04-07 04:53:04 --> Language Class Initialized
+INFO - 2017-04-07 04:53:04 --> Loader Class Initialized
+INFO - 2017-04-07 04:53:04 --> Helper loaded: url_helper
+INFO - 2017-04-07 04:53:04 --> Database Driver Class Initialized
+INFO - 2017-04-07 04:53:04 --> Session: Class initialized using 'database' driver.
+INFO - 2017-04-07 04:53:04 --> Controller Class Initialized
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/meta_view.php
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//shared/menu_view.php
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/navigation_view.php
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/product_view.php
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views/shared/script_view.php
+INFO - 2017-04-07 04:53:04 --> File loaded: /Users/pornjeds/projects/Amsel/Inventory/application/views//products/products_view.php
+INFO - 2017-04-07 04:53:04 --> Final output sent to browser
+DEBUG - 2017-04-07 04:53:04 --> Total execution time: 0.0254
