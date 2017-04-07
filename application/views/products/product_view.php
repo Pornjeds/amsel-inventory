@@ -1,5 +1,5 @@
 <style>
-ul > li{margin-right:25px;font-weight:lighter;cursor:pointer}
+/*ul > li{margin-right:25px;font-weight:lighter;cursor:pointer}
 li.active{border-bottom:3px solid silver;}
 
 .item-photo{display:flex;justify-content:center;align-items:center;border-right:1px solid #f6f6f6;}
@@ -13,7 +13,7 @@ li.active{border-bottom:3px solid silver;}
 div.section > div {width:100%;display:inline-flex;}
 div.section > div > input {margin:0px;padding-left:5px;font-size:10px;padding-right:5px;max-width:18%;text-align:center;}
 .attr,.attr2{cursor:pointer;margin-right:5px;height:20px;font-size:10px;padding:2px;border:1px solid gray;border-radius:2px;}
-.attr.active,.attr2.active{ border:1px solid orange;}
+.attr.active,.attr2.active{ border:1px solid orange;}*/
 
 @media (max-width: 426px) {
     .container {margin-top:0px !important;}
@@ -40,8 +40,9 @@ div.section > div > input {margin:0px;padding-left:5px;font-size:10px;padding-ri
                   <img style="max-width:100%;" src="/products/glutamine-800.jpg"/>
     </div>
     <div class="col-sm-5" style="border:0px solid gray">
-        <!-- Datos del vendedor y titulo del producto -->
-        <h3>Amsel Glutamine 800</h3>
+
+        <h3>Amsel Amino Collagen แอมเซล อะมิโน คอลลาเจน บรรจุ 40 แคปซูล</h3>
+        <h4>Amsel Amino Collagen</h4>
         <h6 class="title-price">จำนวนสินค้าในสต๊อคทั้งหมด</h6>
         <h3 style="margin-top:0px;">500 ขวด</h3>
 
@@ -106,5 +107,68 @@ div.section > div > input {margin:0px;padding-left:5px;font-size:10px;padding-ri
                 </p>
             </div>
         </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-9">
+            <div class="panel panel-default">
+                <!-- <div class="panel-heading">
+                    รายละเอียดสินค้า
+                </div> -->
+                <!-- /.panel-heading -->
+                <div class="panel-body">
+                    <!-- Nav tabs -->
+                    <ul class="nav nav-tabs">
+                        <li class="active"><a href="#home" data-toggle="tab">Home</a>
+                        </li>
+                        <li><a href="#profile" data-toggle="tab">Profile</a>
+                        </li>
+                        <li><a href="#messages" data-toggle="tab">Messages</a>
+                        </li>
+                        <li><a href="#settings" data-toggle="tab">Settings</a>
+                        </li>
+                    </ul>
+
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div class="tab-pane fade in active" id="home">
+                            <p>
+                                <small>
+                                  <p>แอล-กลูตามีน (L-Glutamine) : 800 มิลลิกรัม</p>
+
+                                  <p>1.เป็นสารตั้งต้นของสารกาบา (GABA) ซึ่งเป็นสารสื่อประสาทชนิดหนึ่ง ช่วยให้สมองสามารถทำงานได้อย่างมีประสิทธิภาพ นอกจากนี้กูลตามีนยังกระตุ้นการหลั่งโกรทฮอร์โมน (Growth hormone ) ขึ้น ช่วยให้ร่างกายใช้โปรตีนซ่อมแซมร่างกายขณะหลับได้อย่างมีประสิทธิภาพ จึงช่วยให้ร่างกายผ่อนคลาย ลดอาการเครียด และทำให้การนอนหลับดีขึ้น</p>
+
+                                  <p>2.เป็นกุญแจสำคัญในการให้พลังงานระหว่างออกกำลังกายและสังเคราะห์โปรตีนหลังออกกำลัง ช่วยเพิ่มความแข็งแรง ทนทาน และ ความสามารถในการฟื้นตัวของกล้ามเนื้อ ทำให้ง่ายต่อการเพิ่มกล้ามเนื้อ อีกทั้งช่วยเสริมระดับภูมิคุ้มกันของร่างกายหลังจากออกกำลังอีกด้วย </p>
+
+                                  <p>3.ช่วยฟื้นฟูสภาพและเพิ่มจำนวนเซลล์ดูดซึมอาหารภายในลำไส้เล็กทำให้สามารถดูดซึม สารอาหารได้อย่างมีประสิทธิภาพ จึงสามารถดูดซึมแร่ธาตุและโปรตีนไปใช้ในการเสริมสร้าง กล้ามเนื้อและร่างกายได้อย่างเป็นปกติ</p>
+
+                                  <p>4.ผลการวิจัยจากสถาบันเคียววะ (Kyowa Hakko) ระบุว่าเมื่อใช้ทานกลูตามีนคู่กับผลิตภัณฑ์ แอล-อาจีนีน (L-Aginine) จะช่วยยฟื้นฟูแผลสด รวมถึงแผลกดทับให้หายเร็วขึ้นอีกด้วย</p>
+
+
+                                  <span>การรับประทาน : วันละ 1 เม็ด ก่อนนอน</span>
+                                  <span>ขนาดบรรจุ : 30 แคปซูล</span>
+
+                                  Diary supplement product
+                                </small>
+                            </p>
+                        </div>
+                        <div class="tab-pane fade" id="profile">
+                            <h4>Profile Tab</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                        <div class="tab-pane fade" id="messages">
+                            <h4>Messages Tab</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                        <div class="tab-pane fade" id="settings">
+                            <h4>Settings Tab</h4>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- /.panel-body -->
+            </div>
+            <!-- /.panel -->
+        </div>
+        <!-- /.col-lg-6 -->
     </div>
 </div>
